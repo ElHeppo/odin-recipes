@@ -7,17 +7,17 @@ div {
   }
 
   .odd {
-    background-color: rgb(255, 167, 167);
+    background-color: rgb(66, 21, 21);
     font-family: Verdana, "DejaVu Sans", sans-serif;
   }
   
   .oddly-cool {
-    font-size: 24px;
+    font-size: 20px;
   }
   
   #two {
     color: #0000ff;
-    font-size: 36px;
+    font-size: 30px;
   }
   
   #four {
